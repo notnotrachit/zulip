@@ -6,8 +6,8 @@
   "private": true,
   "main": "",
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
     "@babel/preset-typescript": "^7.15.0",
     "@babel/register": "^7.6.2",
     "@formatjs/intl": "^2.0.0",
