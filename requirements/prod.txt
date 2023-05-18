@@ -1420,7 +1420,7 @@ tlds==2022070701 \
     --hash=sha256:7dbc90f0ebfedf6d418a6430cd84ce98103eca0b699fc316e464a97ec811a061 \
     --hash=sha256:8049061c2844dd35adda622b3c509defc79dd9f2bb7b828580405f9c33ecf8aa
     # via -r requirements/common.in
-tornado==6.2 \
+tornado==6.3.2 \
     --hash=sha256:1d54d13ab8414ed44de07efecb97d4ef7c39f7438cf5e976ccd356bebb1b5fca \
     --hash=sha256:20f638fd8cc85f3cbae3c732326e96addff0a15e22d80f049e00121651e82e72 \
     --hash=sha256:5c87076709343557ef8032934ce5f637dbb552efa7b21d08e89ae7619ed0eb23 \
