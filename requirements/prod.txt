@@ -1469,7 +1469,7 @@ urllib3==1.26.12 \
     #   matrix-client
     #   requests
     #   sentry-sdk
-uwsgi==2.0.21 \
+uwsgi==2.0.22 \
     --hash=sha256:35a30d83791329429bc04fe44183ce4ab512fcf6968070a7bfba42fc5a0552a9
     # via -r requirements/prod.in
 virtualenv-clone==0.5.7 \
