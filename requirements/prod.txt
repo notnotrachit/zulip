@@ -810,7 +810,7 @@ pika==1.3.1 \
     --hash=sha256:89f5e606646caebe3c00cbdbc4c2c609834adde45d7507311807b5775edac8e0 \
     --hash=sha256:beb19ff6dd1547f99a29acc2c6987ebb2ba7c44bf44a3f8e305877c5ef7d2fdc
     # via -r requirements/common.in
-pillow==9.3.0 \
+pillow==10.0.1 \
     --hash=sha256:03150abd92771742d4a8cd6f2fa6246d847dcd2e332a18d0c15cc75bf6703040 \
     --hash=sha256:073adb2ae23431d3b9bcbcff3fe698b62ed47211d0716b067385538a1b0f28b8 \
     --hash=sha256:0b07fffc13f474264c336298d1b4ce01d9c5a011415b79d4ee5527bb69ae6f65 \
